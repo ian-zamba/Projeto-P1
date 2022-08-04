@@ -1,0 +1,8 @@
+Siga os passos:
+
+-Passo 1: vá em Settings
+-Passo 2: abrir a aba compiler...
+-passo 3: abirir a aba Linker settings
+-passo 4: clicar em Add
+-Passo 5: escrever "winmm" no campo aberto
+-Passo 6: clicar em ok
